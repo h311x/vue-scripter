@@ -1,0 +1,13 @@
+- [x] Basic Layout
+- [x] Tailwind
+- [x] Routing
+- [x] Script Picker
+- [x] Editor
+- [x] EditorTheme
+- [x] Save Locally
+- [x] Run on click in popup
+- [x] Delete scripts
+- [ ] Web Containers
+- [ ] File Browser (Separated "Main" Script and Backend)
+- [ ] Some sort of API for scripts to access backend stuff
+- [ ] Typed predefined function in monaco
